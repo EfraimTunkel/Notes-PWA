@@ -1,0 +1,5 @@
+{
+  "name": "Notes - PWA",
+  "description": "A clean, fast, and feature-rich note-taking Progressive Web App. Organize thoughts, to-do lists, and code snippets with folders, tags, and rich text formatting. All your data is stored securely in your browser.",
+  "requestFramePermissions": []
+}
