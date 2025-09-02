@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📝 Notes PWA
 
-# Run and deploy your AI Studio app
+A modern **note-taking Progressive Web App (PWA)** built with **React, TypeScript, and Vite**.  
+Supports **offline mode, installability, and fast performance** — perfect for taking notes anywhere.  
 
-This contains everything you need to run your app locally.
+👉 **Live Demo**: [notes-sf7.pages.dev](https://notes-sf7.pages.dev/)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1PpSIPWoq-ynyxtFRWCRgL6nfFpljgvT8
+---
 
-## Run Locally
+## ✨ Features
+- 📱 **Progressive Web App** – installable & works offline  
+- ⚡ **Blazing fast** with [Vite](https://vitejs.dev/)  
+- 🎨 **Clean UI** with reusable components  
+- 💾 **Persistent storage** using local storage  
+- 📝 **Rich text editing** with dialogs for links & prompts  
+- 🔔 **Custom toast & alerts** for smooth interactions  
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/notes-pwa.git
+cd notes-pwa
